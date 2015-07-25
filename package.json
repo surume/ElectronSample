@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "surume",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^5.0.14"
+  }
 }
